@@ -1,4 +1,4 @@
- #  MACHINE LEARNING 
+  #  MACHINE LEARNING 
 It is a field of computer science where computers learn patterns from data instead of being programmed with rules. Instead of writing step by step instructions, we train a model using data so it can make predictions on new, unseen data as well.
 
 #	Difference between Traditional Programming and Machine Learning 
@@ -29,7 +29,7 @@ Ex- dataset-1000 rows, training-800, testing-200
 
 
 ## SUPERVISED LEARNING
-Model learns from labeled data.
+- Model learns from labeled data.
 
 #	Regression 
 -	Predicts continuous numerical values. (ex: house price, temperature, etc)
@@ -59,7 +59,7 @@ Model learns from labeled data.
 
  
 ## LOSS FUNCTION
-Measures how bad the model predictions are, low loss implies better model 
+- Measures how bad the model predictions are, low loss implies better model 
 
 #	Mean squared error 
 -	Average of squared values of prediction errors

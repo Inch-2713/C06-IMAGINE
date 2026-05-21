@@ -53,4 +53,4 @@ This repository follows the IMAGINE learning roadmap:
 - Learning Phase 3 – Autoencoders and Diffusion Models  
 - Practical Build Phases – Integration and Deployment  
 
-Each phase prepares you for the next. Do not skip phases.
+ Each phase prepares you for the next. Do not skip phases.

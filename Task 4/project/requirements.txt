@@ -1,0 +1,10 @@
+streamlit>=1.49.0
+streamlit-drawable-canvas-fix==0.9.8
+torch
+torchvision
+diffusers
+transformers
+accelerator
+pillow
+numpy
+safetensors
